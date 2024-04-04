@@ -9,9 +9,10 @@ The project consist of a simple window with input for wallet address and button 
 - `cargo run`
 - add the API key
 
-<img width="740" alt="Screenshot 2024-04-04 at 21 09 13" src="https://github.com/Pulko/gui_wallet_tokens_api/assets/38206129/8e0cb8ad-926b-415a-9ce0-01ccd9c2088b">
+<img width="748" alt="Screenshot 2024-04-04 at 21 24 47" src="https://github.com/Pulko/wallet_balance_gui/assets/38206129/69fcb445-4bad-498b-90f6-94ad0f239ef9">
+<img width="774" alt="Screenshot 2024-04-04 at 21 25 09" src="https://github.com/Pulko/wallet_balance_gui/assets/38206129/759c0f86-eaab-465f-bbb5-80161862a800">
 
-<img width="740" alt="Screenshot 2024-04-04 at 21 09 36" src="https://github.com/Pulko/gui_wallet_tokens_api/assets/38206129/034c0005-d0a2-445b-a6ae-3225e581c85b">
+
 
 ----
 # To do:
